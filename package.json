@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.23.6",
-    "@babel/plugin-transform-runtime": "^7.23.6",
-    "@babel/plugin-transform-typescript": "^7.23.6",
-    "@babel/preset-env": "^7.23.6",
+    "@babel/core": "^7.25.9",
+    "@babel/plugin-transform-runtime": "^7.25.9",
+    "@babel/plugin-transform-typescript": "^7.25.9",
+    "@babel/preset-env": "^7.25.9",
     "@dashup/eslint-config-dashup": "0.0.1",
     "@dashup/module": "^1.0.3",
     "babel-plugin-add-module-exports": "^1.0.4"
