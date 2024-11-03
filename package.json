@@ -15,7 +15,7 @@
     "@babel/plugin-transform-typescript": "^7.23.6",
     "@babel/preset-env": "^7.23.6",
     "@dashup/eslint-config-dashup": "0.0.1",
-    "@dashup/module": "^1.0.3",
+    "@dashup/module": "^1.0.9",
     "babel-plugin-add-module-exports": "^1.0.4"
   }
 }
