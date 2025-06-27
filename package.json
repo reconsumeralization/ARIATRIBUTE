@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.23.6",
+    "@babel/core": "^7.27.7",
     "@babel/plugin-transform-runtime": "^7.23.6",
     "@babel/plugin-transform-typescript": "^7.23.6",
     "@babel/preset-env": "^7.23.6",
